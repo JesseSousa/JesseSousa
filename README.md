@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jesse Sousa
 
-I'm an aspiring Full-Stack Developer from 🇧🇷. 
+I'm an aspiring Full-Stack Developer from Brazil🇧🇷. 
 
 - 🌱 Currently learning Rails and C++
 - 🤓 Posting Articles about everything I learn
