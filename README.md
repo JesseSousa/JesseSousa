@@ -1,4 +1,4 @@
-### Hi there 👋:bowtie:
+### Hi there 👋
 
 <!--
 **JesseSousa/JesseSousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
