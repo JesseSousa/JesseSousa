@@ -50,6 +50,6 @@ Here are some ideas to get you started:
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jess%C3%A9-sousa-desenvolvendor/)
 =================
 
-[![card](https://github-readme-stats.vercel.app/api?username=jessesousa&theme=default&show_icons=true)](https://github.com/JesseSousa/)
+[![card](https://github-readme-stats.vercel.app/api?username=jessesousa&theme=dracula&show_icons=true)](https://github.com/JesseSousa/)
 
 
