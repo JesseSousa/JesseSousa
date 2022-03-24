@@ -4,7 +4,7 @@ I'm an aspiring Full-Stack Developer from Brazil🇧🇷.
 
 - 🌱 Currently learning Rails and C++.
 - 🤓 Posting Articles about everything I learn.
-- 📚 Collaborating to Documentations whenever I can.
+- 📚 Fixing typos on Documentations whenever I can.
 
 ### 👨‍💻 My Skills:
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
