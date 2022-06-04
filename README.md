@@ -3,7 +3,7 @@
 I'm an aspiring Full-Stack Developer from Brazil🇧🇷. 
 
 - 🔭 I’m currently working on Quick Notes (personal project). 
-- 🌱 I'm currently learning about react teasting, CI/CD and C++.
+- 🌱 I'm currently learning about react testing, CI/CD and C++.
 - 🤓 I post articles sometimes.
 
 
