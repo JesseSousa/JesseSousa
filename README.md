@@ -1,12 +1,3 @@
-## Hi there 👋, I'm Jesse Sousa
-
-I'm an aspiring Full-Stack Developer from Brazil🇧🇷. 
-
-- 🔭 I’m currently working on Quick Notes (personal project). 
-- 🌱 I'm currently learning about react testing, CI/CD and C++.
-- 🤓 I post articles sometimes.
-
-
 ### 📫 Find me on:
 [![image](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/jessesousa)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jess%C3%A9-sousa-desenvolvendor/)
